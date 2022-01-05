@@ -23,7 +23,7 @@
     </ul>
 </ol>
 
-<img src="https://d2uiaykj5yb3c0.cloudfront.net/tahtakale/img/p/0e690326-ab9d-4b6d-aa8a-623ec8367f52.jpg" width="400" height="300"alt="Körlük, koşulların insanlar üzerinde yarattığı baskıyla birlikte kendilerinde oluşabilecek değişimleri acımasızca nasıl gördüklerini, insanların kendilerinin asıl benliklerinin farkına vardığı anları çok çarpıcı bir şekilde anlatıyor.">
+<img src="https://d2uiaykj5yb3c0.cloudfront.net/tahtakale/img/p/0e690326-ab9d-4b6d-aa8a-623ec8367f52.jpg" width="400" height="300"alt="">
 <div> 
     <p> Körlük, koşulların insanlar üzerinde yarattığı baskıyla birlikte kendilerinde oluşabilecek değişimleri acımasızca nasıl gördüklerini, insanların kendilerinin asıl benliklerinin farkına vardığı anları çok çarpıcı bir şekilde anlatıyor.</p>
    </div>
